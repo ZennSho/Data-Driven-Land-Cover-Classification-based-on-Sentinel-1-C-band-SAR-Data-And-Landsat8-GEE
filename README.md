@@ -1,4 +1,4 @@
-Data-Driven-Land-Cover-Classification-based-on-Sentinel-1-C-band-SAR-Data-And-Landsat8-GEE, A case study of Los Angeles, USA. Question about the scene
+Data-Driven-Land-Cover-Classification-based-on-Sentinel-1-C-band-SAR-Data-And-Landsat8-GEE, A case study of Los Angeles, USA.
 ------------------------------------------------------------------------------------------------------------------------------
 
 
