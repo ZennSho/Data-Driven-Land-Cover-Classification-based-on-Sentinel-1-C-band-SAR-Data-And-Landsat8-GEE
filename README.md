@@ -1,4 +1,4 @@
-Data-Driven-Land-Cover-Classification-based-on-Sentinel-1-C-band-SAR-Data-And-Landsat8-GEE, A case study of Los Angles, USA.
+Data-Driven-Land-Cover-Classification-based-on-Sentinel-1-C-band-SAR-Data-And-Landsat8-GEE, A case study of Los Angeles, USA.
 ------------------------------------------------------------------------------------------------------------------------------
 
 
@@ -40,6 +40,7 @@ Machine Learning Models Predicted outputs or Results; More than 97% Accuracy.
 
 ->Predicated Ouput based on SAR Data And Optical Data Combined;
 
+
+
+
 ![Predicated Ouput based on SAR Data And Optical Data Combined](https://github.com/SohelRana-aiub-Pro/Google-Earth-Engine-Research-Project/assets/133596903/192e19ad-5d7c-4737-ac71-b7bec4b186a2)
-
-
